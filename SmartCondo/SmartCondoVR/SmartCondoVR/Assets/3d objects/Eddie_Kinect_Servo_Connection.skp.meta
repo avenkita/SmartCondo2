@@ -1,0 +1,116 @@
+fileFormatVersion: 2
+guid: 5a1d4e50e1e012d478d9238df5793d5f
+timeCreated: 1457387686
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 00000000010000000200000003000000040000000500000006000000070000000800000009000000
+  assetHash:
+    serializedVersion: 2
+    Hash: ded29bd4956b2a5375b007ff7cf412a9
+  longitude: -105.28298159541538
+  latitude: 40.01700098981594
+  northCorrection: 359.81800622559797
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 0.19540694, y: 0.2366431, z: -0.5505654}
+      lookAt: {x: 0.3977018, y: -5.736451, z: 10.192641}
+      up: {x: 0.009147246, y: 0.87403333, z: 0.48577985}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Component#16
+    100002: Component#17
+    100004: //RootNode
+    100006: PARALLAX#2
+    100008: servo
+    400000: Component#16
+    400002: Component#17
+    400004: //RootNode
+    400006: PARALLAX#2
+    400008: servo
+    2300000: Component#16
+    2300002: Component#17
+    2300004: //RootNode
+    2300006: PARALLAX#2
+    2300008: servo
+    3300000: Component#16
+    3300002: Component#17
+    3300004: //RootNode
+    3300006: PARALLAX#2
+    3300008: servo
+    4300000: Mesh Component#19
+    4300002: Mesh Component#17
+    4300004: Mesh Component#16
+    4300006: Mesh servo
+    4300008: Mesh PARALLAX#2
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

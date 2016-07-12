@@ -1,0 +1,341 @@
+fileFormatVersion: 2
+guid: 119830377b4708a4c890aee6e59a1540
+timeCreated: 1437149406
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: ___ ___ _0
+    100002: ___ ___ _0
+    100004: ___ ___ __
+    100006: ___ ___ __
+    100008: _____ ____
+    100010: ______ ___
+    100012: ______ ___
+    100014: ______ ___
+    100016: ______ ___
+    100018: _______ _0
+    100020: _______ __
+    100022: _______ __
+    100024: _______ __
+    100026: _______ __
+    100028: __________
+    100030: Box01
+    100032: Box03
+    100034: Box04
+    100036: ChamferBox
+    100038: Circle01
+    100040: Circle02
+    100042: Cone03
+    100044: Cone05
+    100046: Cone06
+    100048: Cone07
+    100050: Cone08
+    100052: Cone09
+    100054: Cone10
+    100056: Cone11
+    100058: Cone12
+    100060: //RootNode
+    100062: GeoSpher10
+    100064: GeoSpher11
+    100066: GeoSpher12
+    100068: GeoSpher13
+    100070: GeoSpher14
+    100072: GeoSpher15
+    100074: GeoSpher16
+    100076: GeoSpher17
+    100078: GeoSphere0
+    100080: GeoSphere1
+    100082: GeoSphere2
+    100084: GeoSphere3
+    100086: GeoSphere4
+    100088: GeoSphere5
+    100090: GeoSphere6
+    100092: GeoSphere7
+    100094: GeoSphere8
+    100096: GeoSphere9
+    100098: Line03
+    100100: Line04
+    100102: Line05
+    100104: Line06
+    100106: Line07
+    100108: Sphere13
+    100110: Sphere14
+    100112: Sphere15
+    100114: Sphere16
+    400000: ___ ___ _0
+    400002: ___ ___ _0
+    400004: ___ ___ __
+    400006: ___ ___ __
+    400008: _____ ____
+    400010: ______ ___
+    400012: ______ ___
+    400014: ______ ___
+    400016: ______ ___
+    400018: _______ _0
+    400020: _______ __
+    400022: _______ __
+    400024: _______ __
+    400026: _______ __
+    400028: __________
+    400030: Box01
+    400032: Box03
+    400034: Box04
+    400036: ChamferBox
+    400038: Circle01
+    400040: Circle02
+    400042: Cone03
+    400044: Cone05
+    400046: Cone06
+    400048: Cone07
+    400050: Cone08
+    400052: Cone09
+    400054: Cone10
+    400056: Cone11
+    400058: Cone12
+    400060: //RootNode
+    400062: GeoSpher10
+    400064: GeoSpher11
+    400066: GeoSpher12
+    400068: GeoSpher13
+    400070: GeoSpher14
+    400072: GeoSpher15
+    400074: GeoSpher16
+    400076: GeoSpher17
+    400078: GeoSphere0
+    400080: GeoSphere1
+    400082: GeoSphere2
+    400084: GeoSphere3
+    400086: GeoSphere4
+    400088: GeoSphere5
+    400090: GeoSphere6
+    400092: GeoSphere7
+    400094: GeoSphere8
+    400096: GeoSphere9
+    400098: Line03
+    400100: Line04
+    400102: Line05
+    400104: Line06
+    400106: Line07
+    400108: Sphere13
+    400110: Sphere14
+    400112: Sphere15
+    400114: Sphere16
+    2300000: ___ ___ _0
+    2300002: ___ ___ _0
+    2300004: ___ ___ __
+    2300006: ___ ___ __
+    2300008: _____ ____
+    2300010: ______ ___
+    2300012: ______ ___
+    2300014: ______ ___
+    2300016: ______ ___
+    2300018: _______ _0
+    2300020: _______ __
+    2300022: _______ __
+    2300024: _______ __
+    2300026: Box01
+    2300028: Box03
+    2300030: Box04
+    2300032: ChamferBox
+    2300034: Circle01
+    2300036: Circle02
+    2300038: Cone03
+    2300040: Cone05
+    2300042: Cone06
+    2300044: Cone07
+    2300046: Cone08
+    2300048: Cone09
+    2300050: Cone10
+    2300052: Cone11
+    2300054: Cone12
+    2300056: GeoSpher10
+    2300058: GeoSpher11
+    2300060: GeoSpher12
+    2300062: GeoSpher13
+    2300064: GeoSpher14
+    2300066: GeoSpher15
+    2300068: GeoSpher16
+    2300070: GeoSpher17
+    2300072: GeoSphere0
+    2300074: GeoSphere1
+    2300076: GeoSphere2
+    2300078: GeoSphere3
+    2300080: GeoSphere4
+    2300082: GeoSphere5
+    2300084: GeoSphere6
+    2300086: GeoSphere7
+    2300088: GeoSphere8
+    2300090: GeoSphere9
+    2300092: Line03
+    2300094: Line04
+    2300096: Line05
+    2300098: Line06
+    2300100: Line07
+    2300102: Sphere13
+    2300104: Sphere14
+    2300106: Sphere15
+    2300108: Sphere16
+    3300000: ___ ___ _0
+    3300002: ___ ___ _0
+    3300004: ___ ___ __
+    3300006: ___ ___ __
+    3300008: _____ ____
+    3300010: ______ ___
+    3300012: ______ ___
+    3300014: ______ ___
+    3300016: ______ ___
+    3300018: _______ _0
+    3300020: _______ __
+    3300022: _______ __
+    3300024: _______ __
+    3300026: Box01
+    3300028: Box03
+    3300030: Box04
+    3300032: ChamferBox
+    3300034: Circle01
+    3300036: Circle02
+    3300038: Cone03
+    3300040: Cone05
+    3300042: Cone06
+    3300044: Cone07
+    3300046: Cone08
+    3300048: Cone09
+    3300050: Cone10
+    3300052: Cone11
+    3300054: Cone12
+    3300056: GeoSpher10
+    3300058: GeoSpher11
+    3300060: GeoSpher12
+    3300062: GeoSpher13
+    3300064: GeoSpher14
+    3300066: GeoSpher15
+    3300068: GeoSpher16
+    3300070: GeoSpher17
+    3300072: GeoSphere0
+    3300074: GeoSphere1
+    3300076: GeoSphere2
+    3300078: GeoSphere3
+    3300080: GeoSphere4
+    3300082: GeoSphere5
+    3300084: GeoSphere6
+    3300086: GeoSphere7
+    3300088: GeoSphere8
+    3300090: GeoSphere9
+    3300092: Line03
+    3300094: Line04
+    3300096: Line05
+    3300098: Line06
+    3300100: Line07
+    3300102: Sphere13
+    3300104: Sphere14
+    3300106: Sphere15
+    3300108: Sphere16
+    4300000: ______ ___
+    4300002: ChamferBox
+    4300004: ___ ___ __
+    4300006: _______ __
+    4300008: ___ ___ __
+    4300010: _______ __
+    4300012: ______ ___
+    4300014: ______ ___
+    4300016: ______ ___
+    4300018: _______ __
+    4300020: Sphere13
+    4300022: Line04
+    4300024: Circle01
+    4300026: Circle02
+    4300028: Line07
+    4300030: Box01
+    4300032: Box03
+    4300034: Box04
+    4300036: GeoSphere0
+    4300038: Cone03
+    4300040: GeoSphere1
+    4300042: Cone05
+    4300044: Cone06
+    4300046: GeoSphere2
+    4300048: GeoSphere3
+    4300050: GeoSphere4
+    4300052: GeoSphere5
+    4300054: GeoSphere6
+    4300056: GeoSphere7
+    4300058: GeoSphere8
+    4300060: GeoSphere9
+    4300062: Cone07
+    4300064: GeoSpher10
+    4300066: GeoSpher11
+    4300068: GeoSpher12
+    4300070: GeoSpher13
+    4300072: GeoSpher14
+    4300074: GeoSpher15
+    4300076: GeoSpher16
+    4300078: Cone08
+    4300080: Cone11
+    4300082: GeoSpher17
+    4300084: Cone10
+    4300086: Cone09
+    4300088: Cone12
+    4300090: _____ ____
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

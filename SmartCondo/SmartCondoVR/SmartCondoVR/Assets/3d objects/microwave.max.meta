@@ -1,0 +1,134 @@
+fileFormatVersion: 2
+guid: b0824b5345a9e324b9ae3a39fa27ff38
+timeCreated: 1437414279
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Compass001
+    100002: EURO STYLE final#1_001
+    100004: EURO STYLE final#1_002
+    100006: Group_001
+    100008: Group_002
+    100010: Group_003
+    100012: Group_004
+    100014: Group_005
+    100016: Group_006
+    100018: Group_007
+    100020: GuidePoint_001
+    100022: JMV9186WS_Daylight_001
+    100024: LOGO_001
+    100026: //RootNode
+    100028: skpCamera001
+    100030: skpCamera001.Target
+    100032: Sky002
+    100034: Sun001
+    400000: Compass001
+    400002: EURO STYLE final#1_001
+    400004: EURO STYLE final#1_002
+    400006: Group_001
+    400008: Group_002
+    400010: Group_003
+    400012: Group_004
+    400014: Group_005
+    400016: Group_006
+    400018: Group_007
+    400020: GuidePoint_001
+    400022: JMV9186WS_Daylight_001
+    400024: LOGO_001
+    400026: //RootNode
+    400028: skpCamera001
+    400030: skpCamera001.Target
+    400032: Sky002
+    400034: Sun001
+    2300000: EURO STYLE final#1_001
+    2300002: Group_001
+    2300004: Group_002
+    2300006: Group_003
+    2300008: Group_004
+    2300010: Group_005
+    2300012: Group_006
+    2300014: Group_007
+    2300016: LOGO_001
+    3300000: EURO STYLE final#1_001
+    3300002: Group_001
+    3300004: Group_002
+    3300006: Group_003
+    3300008: Group_004
+    3300010: Group_005
+    3300012: Group_006
+    3300014: Group_007
+    3300016: LOGO_001
+    4300000: Group_001
+    4300002: Group_002
+    4300004: Group_003
+    4300006: Group_004
+    4300008: Group_005
+    4300010: Group_006
+    4300012: Group_007
+    4300014: LOGO_001
+    4300016: EURO STYLE final#1_001
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

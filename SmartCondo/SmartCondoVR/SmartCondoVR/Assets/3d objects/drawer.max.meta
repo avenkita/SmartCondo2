@@ -1,0 +1,303 @@
+fileFormatVersion: 2
+guid: 72fd74bae2ade3f48ac5f4dbdb7a3baa
+timeCreated: 1438098272
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: 0304105323 Screw ISO 7380 M8x14_001
+    100002: 0304105323 Screw ISO 7380 M8x14_002
+    100004: 0304105323 Screw ISO 7380 M8x14_003
+    100006: 0304105323 Screw ISO 7380 M8x14_004
+    100008: 0304105323 Screw ISO 7380 M8x14_005
+    100010: 0304105323 Screw ISO 7380 M8x14_006
+    100012: 0304105323 Screw ISO 7380 M8x14_007
+    100014: 0304105323 Screw ISO 7380 M8x14_008
+    100016: 0304105323 Screw ISO 7380 M8x14_009
+    100018: 0304105323 Screw ISO 7380 M8x14_010
+    100020: //RootNode
+    100022: Group_001
+    100024: Group_002
+    100026: Group_003
+    100028: Group_004
+    100030: Group_005
+    100032: Group_006
+    100034: Group_007
+    100036: Group_008
+    100038: Group_009
+    100040: Group_010
+    100042: Group_011
+    100044: Group_012
+    100046: Group_013
+    100048: Group_014
+    100050: Group_015
+    100052: Group_016
+    100054: Group_017
+    100056: Group_018
+    100058: Group_019
+    100060: Group_020
+    100062: Group_021
+    100064: Group_022
+    100066: Group_023
+    100068: Group_024
+    100070: Group_025
+    100072: Group_026
+    100074: Group_027
+    100076: Group_028
+    100078: Group_029
+    100080: Group_030
+    100082: Group_031
+    100084: Group_032
+    100086: Group_033
+    100088: Group_034
+    100090: Group_035
+    100092: Group_036
+    100094: Group_037
+    100096: Group_038
+    400000: 0304105323 Screw ISO 7380 M8x14_001
+    400002: 0304105323 Screw ISO 7380 M8x14_002
+    400004: 0304105323 Screw ISO 7380 M8x14_003
+    400006: 0304105323 Screw ISO 7380 M8x14_004
+    400008: 0304105323 Screw ISO 7380 M8x14_005
+    400010: 0304105323 Screw ISO 7380 M8x14_006
+    400012: 0304105323 Screw ISO 7380 M8x14_007
+    400014: 0304105323 Screw ISO 7380 M8x14_008
+    400016: 0304105323 Screw ISO 7380 M8x14_009
+    400018: 0304105323 Screw ISO 7380 M8x14_010
+    400020: //RootNode
+    400022: Group_001
+    400024: Group_002
+    400026: Group_003
+    400028: Group_004
+    400030: Group_005
+    400032: Group_006
+    400034: Group_007
+    400036: Group_008
+    400038: Group_009
+    400040: Group_010
+    400042: Group_011
+    400044: Group_012
+    400046: Group_013
+    400048: Group_014
+    400050: Group_015
+    400052: Group_016
+    400054: Group_017
+    400056: Group_018
+    400058: Group_019
+    400060: Group_020
+    400062: Group_021
+    400064: Group_022
+    400066: Group_023
+    400068: Group_024
+    400070: Group_025
+    400072: Group_026
+    400074: Group_027
+    400076: Group_028
+    400078: Group_029
+    400080: Group_030
+    400082: Group_031
+    400084: Group_032
+    400086: Group_033
+    400088: Group_034
+    400090: Group_035
+    400092: Group_036
+    400094: Group_037
+    400096: Group_038
+    2300000: 0304105323 Screw ISO 7380 M8x14_001
+    2300002: 0304105323 Screw ISO 7380 M8x14_002
+    2300004: 0304105323 Screw ISO 7380 M8x14_003
+    2300006: 0304105323 Screw ISO 7380 M8x14_004
+    2300008: 0304105323 Screw ISO 7380 M8x14_005
+    2300010: 0304105323 Screw ISO 7380 M8x14_006
+    2300012: 0304105323 Screw ISO 7380 M8x14_007
+    2300014: 0304105323 Screw ISO 7380 M8x14_008
+    2300016: 0304105323 Screw ISO 7380 M8x14_009
+    2300018: 0304105323 Screw ISO 7380 M8x14_010
+    2300020: Group_001
+    2300022: Group_002
+    2300024: Group_003
+    2300026: Group_004
+    2300028: Group_005
+    2300030: Group_006
+    2300032: Group_007
+    2300034: Group_008
+    2300036: Group_009
+    2300038: Group_010
+    2300040: Group_011
+    2300042: Group_014
+    2300044: Group_015
+    2300046: Group_016
+    2300048: Group_018
+    2300050: Group_019
+    2300052: Group_020
+    2300054: Group_021
+    2300056: Group_022
+    2300058: Group_023
+    2300060: Group_024
+    2300062: Group_025
+    2300064: Group_026
+    2300066: Group_027
+    2300068: Group_028
+    2300070: Group_029
+    2300072: Group_030
+    2300074: Group_031
+    2300076: Group_032
+    2300078: Group_033
+    2300080: Group_034
+    2300082: Group_035
+    2300084: Group_036
+    2300086: Group_037
+    2300088: Group_038
+    3300000: 0304105323 Screw ISO 7380 M8x14_001
+    3300002: 0304105323 Screw ISO 7380 M8x14_002
+    3300004: 0304105323 Screw ISO 7380 M8x14_003
+    3300006: 0304105323 Screw ISO 7380 M8x14_004
+    3300008: 0304105323 Screw ISO 7380 M8x14_005
+    3300010: 0304105323 Screw ISO 7380 M8x14_006
+    3300012: 0304105323 Screw ISO 7380 M8x14_007
+    3300014: 0304105323 Screw ISO 7380 M8x14_008
+    3300016: 0304105323 Screw ISO 7380 M8x14_009
+    3300018: 0304105323 Screw ISO 7380 M8x14_010
+    3300020: Group_001
+    3300022: Group_002
+    3300024: Group_003
+    3300026: Group_004
+    3300028: Group_005
+    3300030: Group_006
+    3300032: Group_007
+    3300034: Group_008
+    3300036: Group_009
+    3300038: Group_010
+    3300040: Group_011
+    3300042: Group_014
+    3300044: Group_015
+    3300046: Group_016
+    3300048: Group_018
+    3300050: Group_019
+    3300052: Group_020
+    3300054: Group_021
+    3300056: Group_022
+    3300058: Group_023
+    3300060: Group_024
+    3300062: Group_025
+    3300064: Group_026
+    3300066: Group_027
+    3300068: Group_028
+    3300070: Group_029
+    3300072: Group_030
+    3300074: Group_031
+    3300076: Group_032
+    3300078: Group_033
+    3300080: Group_034
+    3300082: Group_035
+    3300084: Group_036
+    3300086: Group_037
+    3300088: Group_038
+    4300000: Group_001
+    4300002: Group_002
+    4300004: Group_003
+    4300006: Group_004
+    4300008: Group_005
+    4300010: Group_006
+    4300012: Group_007
+    4300014: Group_008
+    4300016: Group_009
+    4300018: Group_010
+    4300020: Group_011
+    4300022: Group_014
+    4300024: Group_015
+    4300026: Group_016
+    4300028: Group_018
+    4300030: Group_019
+    4300032: Group_020
+    4300034: Group_021
+    4300036: Group_022
+    4300038: Group_023
+    4300040: Group_024
+    4300042: Group_025
+    4300044: Group_026
+    4300046: Group_027
+    4300048: Group_028
+    4300050: Group_029
+    4300052: Group_030
+    4300054: Group_031
+    4300056: Group_032
+    4300058: Group_033
+    4300060: Group_034
+    4300062: Group_035
+    4300064: Group_036
+    4300066: Group_037
+    4300068: Group_038
+    4300070: 0304105323 Screw ISO 7380 M8x14_001
+    4300072: 0304105323 Screw ISO 7380 M8x14_002
+    4300074: 0304105323 Screw ISO 7380 M8x14_003
+    4300076: 0304105323 Screw ISO 7380 M8x14_004
+    4300078: 0304105323 Screw ISO 7380 M8x14_005
+    4300080: 0304105323 Screw ISO 7380 M8x14_006
+    4300082: 0304105323 Screw ISO 7380 M8x14_007
+    4300084: 0304105323 Screw ISO 7380 M8x14_008
+    4300086: 0304105323 Screw ISO 7380 M8x14_009
+    4300088: 0304105323 Screw ISO 7380 M8x14_010
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
